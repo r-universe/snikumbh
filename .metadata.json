@@ -1,5 +1,8 @@
 [
   {
     "package": "seqArchR"
+  },
+  {
+    "package": "seqArchRplus"
   }
 ]
